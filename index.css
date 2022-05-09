@@ -1,0 +1,13 @@
+.box{
+  background-color: aqua;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: royalblue;
+}
+textarea{
+  width: 300px;
+  height: 300px;
+}
